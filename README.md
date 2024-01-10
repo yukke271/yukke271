@@ -13,9 +13,9 @@
 ## 📊 GitHub Stats:
 
 <p align="left"> 
-  <img alt="Stats" height="148px" src="https://github-readme-stats.vercel.app/api?username=yukke271&count_private=true&show_icons=true&theme=dark" /><br>
-  <img alt="Top Langs" height="148px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukke271&layout=compact&theme=dark" /><br>
-  <img alt="Streak" height="148px" src="http://github-readme-streak-stats.herokuapp.com?user=yukke271&theme=dark" /><br>
+  <img alt="Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yukke271&count_private=true&show_icons=true&theme=dark" /><br>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukke271&layout=compact&theme=dark" /><br>
+  <img alt="Streak" height="150px" src="https://streak-stats.demolab.com?user=yukke271&theme=dark&date_format=%5BY.%5Dn.j" /><br>
   <img alt="Contributions" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yukke271&theme=dark" />
 </p>
 
